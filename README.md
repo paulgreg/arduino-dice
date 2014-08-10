@@ -1,4 +1,6 @@
 arduino-dice
 ============
 
-An arduino based digital dice controlled by a light sensor
+An arduino based digital dice controlled by a light sensor.
+
+![Illustration](https://raw.githubusercontent.com/paulgreg/arduino-dice/master/dice.gif)
